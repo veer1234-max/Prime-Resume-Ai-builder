@@ -1,5 +1,6 @@
 # PrimeResume
 For the live app, follow this link - https://prime-resume-ai-builder.onrender.com/
+
 PrimeResume is a full-stack AI-powered resume builder built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **MongoDB**, and **Google Gemini**.
 
 It lets users:
